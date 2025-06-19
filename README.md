@@ -23,7 +23,7 @@ The Titanic dataset is a classic case used in machine learning and data analysis
 | `head.csv`             | First five rows of the cleaned dataset       |
 | `train.csv`            | Dataset Used                                 |
 
-## 🔧 Technologies Used
+## 🔧 Tools Used
 
 PYTHON
 - Pandas
