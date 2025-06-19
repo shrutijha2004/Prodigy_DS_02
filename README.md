@@ -1,4 +1,4 @@
-# Prodigy_DS_02
+## Prodigy_DS_02
 
  🚢 Titanic EDA – Data Analysis with Python
 
@@ -45,8 +45,8 @@ PYTHON
 - Created `FamilySize` feature
 
 ## 📷 Preview
-‣ <img width="1160" alt="Screenshot 2025-06-19 at 11 49 21 PM" src="https://github.com/user-attachments/assets/34d1661a-4be9-4ae9-b705-f171f61fff3a" />
-‣ <img width="1398" alt="Screenshot 2025-06-19 at 11 49 45 PM" src="https://github.com/user-attachments/assets/ef2e096a-2bb8-4cb5-a7b2-ed32278d2b11" />
-‣ <img width="1118" alt="Screenshot 2025-06-19 at 11 50 08 PM" src="https://github.com/user-attachments/assets/cdb1c775-6905-4be7-9dc2-5730e3e84259" />
+<img width="1160" alt="Screenshot 2025-06-19 at 11 49 21 PM" src="https://github.com/user-attachments/assets/34d1661a-4be9-4ae9-b705-f171f61fff3a" />
+<img width="1398" alt="Screenshot 2025-06-19 at 11 49 45 PM" src="https://github.com/user-attachments/assets/ef2e096a-2bb8-4cb5-a7b2-ed32278d2b11" />
+<img width="1118" alt="Screenshot 2025-06-19 at 11 50 08 PM" src="https://github.com/user-attachments/assets/cdb1c775-6905-4be7-9dc2-5730e3e84259" />
 
 
